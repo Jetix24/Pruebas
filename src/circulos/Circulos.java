@@ -32,7 +32,7 @@ public class Circulos {
             default:  System.out.println("Ingresaste un valor incorrecto"); break;    
             
         }
-          System.out.println("Nueva Rama");
+          System.out.println("Nueva Rama 1");
     }
  
    
