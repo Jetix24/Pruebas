@@ -30,7 +30,9 @@ public class Circulos {
             case 2: cir.Perimetro(radio);  break;  
             case 3:  cir.Area(radio);cir.Perimetro(radio);  break; 
             default:  System.out.println("Ingresaste un valor incorrecto"); break;    
+            
         }
+          System.out.println("Nueva Rama");
     }
  
    
