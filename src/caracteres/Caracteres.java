@@ -21,7 +21,7 @@ public class Caracteres {
               System.out.println("Arreglo en el indice " + i + " es igual a: " + Caracteres[i] );
               
            }
-           
+           System.out.println("Version 1.1");
     }  
 }
 
